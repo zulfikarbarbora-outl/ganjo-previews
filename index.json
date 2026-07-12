@@ -1,0 +1,675 @@
+{
+  "library": "Ganjo",
+  "description": "Ganjo — banjo-guitar hybrid instrument",
+  "license": "CC0-1.0",
+  "author": "Karoryfer Samples",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/ganjo",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/ganjo-previews",
+  "branch": "main",
+  "fileCount": 61,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/",
+  "files": [
+    {
+      "file": "Banjo_Common_-_A3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_A3.mp3",
+      "size": 21826,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A3_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_A3_2.mp3",
+      "size": 29350,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_A4.mp3",
+      "size": 21826,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_A4_2.mp3",
+      "size": 11377,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_A4_3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_A4_3.mp3",
+      "size": 11377,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As3.mp3",
+      "size": 29350,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4.mp3",
+      "size": 21826,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_10.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_10.mp3",
+      "size": 29350,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_11.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_11.mp3",
+      "size": 26006,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_2.mp3",
+      "size": 8870,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_3.mp3",
+      "size": 20573,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_4.mp3",
+      "size": 26006,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_5.mp3",
+      "size": 21826,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_6.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_7.mp3",
+      "size": 24752,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_8.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_8.mp3",
+      "size": 24752,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As4_9.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As4_9.mp3",
+      "size": 24752,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_As5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_As5.mp3",
+      "size": 25588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B3.mp3",
+      "size": 12631,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B4.mp3",
+      "size": 12631,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B4_2.mp3",
+      "size": 11795,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B4_3.mp3",
+      "size": 20573,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B4_4.mp3",
+      "size": 15557,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B4_5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B4_5.mp3",
+      "size": 20991,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_B5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_B5.mp3",
+      "size": 24752,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_C5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_C5.mp3",
+      "size": 33111,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Cs4.mp3",
+      "size": 19737,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Cs4_2.mp3",
+      "size": 12631,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Cs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Cs5.mp3",
+      "size": 29350,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_D4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_D4.mp3",
+      "size": 21826,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Ds3.mp3",
+      "size": 24334,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Ds4.mp3",
+      "size": 29350,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Ds5.mp3",
+      "size": 33111,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Ds5_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Ds5_2.mp3",
+      "size": 29350,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_E3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_E3.mp3",
+      "size": 15139,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_E4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_E4.mp3",
+      "size": 33111,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_F3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_F3.mp3",
+      "size": 16393,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_F4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_F4.mp3",
+      "size": 16393,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs3.mp3",
+      "size": 33111,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs3_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs3_2.mp3",
+      "size": 32275,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4.mp3",
+      "size": 27260,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_2.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_3.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_4.mp3",
+      "size": 22662,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_5.mp3",
+      "size": 25170,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_6.mp3",
+      "size": 25170,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Fs4_7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Fs4_7.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_G3.mp3",
+      "size": 26842,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_G4.mp3",
+      "size": 16393,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_G4_2.mp3",
+      "size": 16393,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_G5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_G5.mp3",
+      "size": 10542,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs3.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs3_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs3_2.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4.mp3",
+      "size": 10542,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4_2.mp3",
+      "size": 10542,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4_3.mp3",
+      "size": 24752,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4_4.mp3",
+      "size": 24752,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4_5.mp3",
+      "size": 26424,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs4_6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs4_6.mp3",
+      "size": 23916,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs5.mp3",
+      "size": 23916,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Banjo_Common_-_Gs5_2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/ganjo-previews/main/Banjo_Common_-_Gs5_2.mp3",
+      "size": 26842,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "52": [
+      "Banjo_Common_-_E3.mp3"
+    ],
+    "53": [
+      "Banjo_Common_-_F3.mp3"
+    ],
+    "55": [
+      "Banjo_Common_-_G3.mp3"
+    ],
+    "57": [
+      "Banjo_Common_-_A3.mp3",
+      "Banjo_Common_-_A3_2.mp3"
+    ],
+    "59": [
+      "Banjo_Common_-_B3.mp3"
+    ],
+    "62": [
+      "Banjo_Common_-_D4.mp3"
+    ],
+    "64": [
+      "Banjo_Common_-_E4.mp3"
+    ],
+    "65": [
+      "Banjo_Common_-_F4.mp3"
+    ],
+    "67": [
+      "Banjo_Common_-_G4.mp3",
+      "Banjo_Common_-_G4_2.mp3"
+    ],
+    "69": [
+      "Banjo_Common_-_A4.mp3",
+      "Banjo_Common_-_A4_2.mp3",
+      "Banjo_Common_-_A4_3.mp3"
+    ],
+    "71": [
+      "Banjo_Common_-_B4.mp3",
+      "Banjo_Common_-_B4_2.mp3",
+      "Banjo_Common_-_B4_3.mp3",
+      "Banjo_Common_-_B4_4.mp3",
+      "Banjo_Common_-_B4_5.mp3"
+    ],
+    "72": [
+      "Banjo_Common_-_C5.mp3"
+    ],
+    "79": [
+      "Banjo_Common_-_G5.mp3"
+    ],
+    "83": [
+      "Banjo_Common_-_B5.mp3"
+    ]
+  }
+}
